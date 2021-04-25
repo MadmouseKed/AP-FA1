@@ -1,0 +1,15 @@
+D:\Programeren\AdaptiveProgramming\FA1\FA1\bin\Debug\netcoreapp3.1\FA1.exe
+D:\Programeren\AdaptiveProgramming\FA1\FA1\bin\Debug\netcoreapp3.1\FA1.deps.json
+D:\Programeren\AdaptiveProgramming\FA1\FA1\bin\Debug\netcoreapp3.1\FA1.runtimeconfig.json
+D:\Programeren\AdaptiveProgramming\FA1\FA1\bin\Debug\netcoreapp3.1\FA1.runtimeconfig.dev.json
+D:\Programeren\AdaptiveProgramming\FA1\FA1\bin\Debug\netcoreapp3.1\FA1.dll
+D:\Programeren\AdaptiveProgramming\FA1\FA1\bin\Debug\netcoreapp3.1\FA1.pdb
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.csprojAssemblyReference.cache
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.csproj.GenerateResource.cache
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.AssemblyInfoInputs.cache
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.AssemblyInfo.cs
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.csproj.CoreCompileInputs.cache
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.dll
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.pdb
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.genruntimeconfig.cache
+D:\Programeren\AdaptiveProgramming\FA1\FA1\obj\Debug\netcoreapp3.1\FA1.FormBattleSim.resources
